@@ -1,0 +1,30 @@
+SAMPLE ATTACHMENT A - WHOIS LOOKUP RAW OUTPUT
+Fictional target used for this training project: acmerobotics.example
+================================================================
+
+Domain Name: ACMEROBOTICS.EXAMPLE
+Registry Domain ID: EXAMPLE-1234567890
+Registrar WHOIS Server: whois.exampleregistrar.example
+Registrar URL: http://www.exampleregistrar.example
+Updated Date: 2026-01-14T10:02:00Z
+Creation Date: 2015-03-11T00:00:00Z
+Registry Expiry Date: 2027-03-11T00:00:00Z
+Registrar: Example Registrar LLC
+Registrar IANA ID: 9999
+Domain Status: clientTransferProhibited
+Registrant Organization: Acme Robotics Ltd. (FICTIONAL - for training use only)
+Registrant State/Province: Karnataka
+Registrant Country: IN
+Admin Email: Redacted for privacy (GDPR-style proxy)
+Name Server: NS1.ACMEROBOTICS.EXAMPLE
+Name Server: NS2.ACMEROBOTICS.EXAMPLE
+DNSSEC: unsigned
+
+--- Analyst note ---
+This record confirms the registrant country/region matches the address
+found on the organization's public "Contact Us" page (Section 3 of the
+main report), corroborating the Bengaluru headquarters claim from a
+second, independent source.
+
+This file is a fabricated example created for a cybersecurity training
+project. "Acme Robotics" and "acmerobotics.example" are not real entities.
