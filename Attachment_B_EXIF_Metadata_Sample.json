@@ -1,0 +1,15 @@
+{
+  "_note": "SAMPLE ATTACHMENT B - Illustrative EXIF metadata output for a training project. This is fabricated example data for a fictional photo; it is not a real file or real GPS location.",
+  "SourceFile": "office_photo_example.jpg",
+  "FileType": "JPEG",
+  "Make": "Example Phone Manufacturer",
+  "CameraModel": "Example Phone 12",
+  "Software": "Example OS 17.2",
+  "DateTimeOriginal": "2026:03:02 14:21:08",
+  "GPSLatitude": "12 deg 58' 12.3\" N",
+  "GPSLongitude": "77 deg 35' 40.1\" E",
+  "GPSAltitude": "920 m Above Sea Level",
+  "ImageWidth": 4032,
+  "ImageHeight": 3024,
+  "analyst_note": "Coordinates correspond to the fictional Acme Robotics Bengaluru office address already identified via the organization's public contact page and WHOIS registrant city (see Attachment A). In a real engagement, this level of corroboration from three independent sources would be treated as high-confidence."
+}
